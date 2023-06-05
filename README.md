@@ -5,7 +5,7 @@
 - Front-end experience with JavaScript and TypeScript using React and React Native.
 - Back-end experience with TypeScript using NodeJS/NestJS, TypeORM/Prisma, PostgreSQL, SOLID principles, and Docker.
 ## Studies
-- JavaScript with Guanabara, Roger Mello, and others.
+- JavaScript with Guanabara, Roger Melo, and others.
 - React (NextJS and Vite), React Native (Expo) and Tailwind CSS with Rocketseat.
 - Java with Loiane Groner.
 - Python at FATEC Itapira.
