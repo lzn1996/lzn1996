@@ -6,8 +6,10 @@
 ## Experiences
 - Front-end experience with JavaScript and TypeScript using React and React Native.
 - Back-end experience with TypeScript using NodeJS/NestJS, TypeORM/Prisma, PostgreSQL, SOLID principles, and Docker.
+- Full stack experience with CodeIgniter
 ## Tools
 - JavaScript with Guanabara, Roger Melo, and others.
 - React (NextJS and Vite), React Native (Expo) and Tailwind CSS with Rocketseat.
+- PHP/CodeIgniter with random video tutorials.
 - Java with Loiane Groner.
 - Python at FATEC Itapira.
