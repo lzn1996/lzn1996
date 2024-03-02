@@ -1,2 +1,1 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00B802&background=000000&center=true&vCenter=true&width=1100&lines=%3CHello%2C+I'm+Luan%2C+28yo%2C+from+Brazil.+Be+welcome!%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=16&pause=1000&color=45F700&background=000000&center=true&vCenter=true&random=false&width=435&lines=%3CHello+name%3D%22Luan%22+country%3D%22Brazil%22+beWelcome%2F%3E)](https://git.io/typing-svg)
